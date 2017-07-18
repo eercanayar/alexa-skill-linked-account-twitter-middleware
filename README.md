@@ -12,8 +12,8 @@ notes:
 - do not forget to define env variables on heroku dashboard
 
 alexa skill functions compatible with this middleware:
-- [*nodejs*](https://github.com/eercanayar/alexa_linkedAccountTwitterNodeJs)
-- [*netcore10"](https://github.com/eercanayar/alexa_linkedAccountTwitter.NET)
+- [*nodejs: eercanayar/alexa_linkedAccountTwitterNodeJs*](https://github.com/eercanayar/alexa_linkedAccountTwitterNodeJs)
+- [*netcore10: eercanayar/alexa_linkedAccountTwitter.NET*](https://github.com/eercanayar/alexa_linkedAccountTwitter.NET)
 
 soon:
 - detailed tutorial

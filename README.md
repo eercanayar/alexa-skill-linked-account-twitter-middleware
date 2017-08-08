@@ -12,8 +12,8 @@ notes:
 - do not forget to define env variables on heroku dashboard
 
 alexa skill functions compatible with this middleware:
-- [*nodejs: eercanayar/alexa-skill-linked-account-twitter-nodejs*](https://github.com/eercanayar/alexa-skill-linked-account-twitter-nodejs)
-- [*netcore10: eercanayar/alexa-skill-linked-account-twitter-dotnet-core*](https://github.com/eercanayar/alexa-skill-linked-account-twitter-dotnet-core)
+- nodejs: [*eercanayar/alexa-skill-linked-account-twitter-nodejs*](https://github.com/eercanayar/alexa-skill-linked-account-twitter-nodejs)
+- netcore10: [*eercanayar/alexa-skill-linked-account-twitter-dotnet-core*](https://github.com/eercanayar/alexa-skill-linked-account-twitter-dotnet-core)
 
 **Visit wiki and learn more about Alexa Skill Development and read detailed section for this sample skill; [Alexa-Skills-Kit-(ASK)-Development-Tutorial#step-3-exchange-calculator-skill-with-nodejs--alexa-sdk--account-linking-with-twitter](https://github.com/eercanayar/alexa-skills-ask-tutorial/wiki/Alexa-Skills-Kit-(ASK)-Development-Tutorial#step-3-exchange-calculator-skill-with-nodejs--alexa-sdk--account-linking-with-twitter)**
 
